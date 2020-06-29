@@ -6,6 +6,6 @@ SimCapsule CAD Viewer is used to view CAD models with viewer operations (display
 
 Interested parties are invited to explore how SimCapsule could benefit their design teams and analysis processes.
 
-Main Page: http://127.0.0.1/app/cadviewer/main.html
+Main Page: https://www.simcapsule.cn/app/cadviewer/main.html
 
 Video: https://www.bilibili.com/video/BV1wf4y117mV/
